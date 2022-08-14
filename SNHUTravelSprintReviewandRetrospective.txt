@@ -1,0 +1,70 @@
+SNHU Travel Sprint Review and Retrospective
+
+As Scrum Master for the SNHU Travel project, I want to first take time in this retrospective to acknowledge
+the contributions from our entire team. To Christy, our Product Owner, for providing the Product Backlog and 
+Backlog grooming as well as being available to answer questions our development team had in regards to the 
+user stories. I would also like to acknowledge our Developer for taking those user stories and turning them 
+into a usable product, such as when the code was written to create the user interface that showed the vacation 
+packages in a slideshow. I would like to acknowledge the Tester for working closely with the Developer to 
+produce a product that meets the user requirements. He was not only responsible for creating the acceptance 
+criteria for each user story, but he was also responsible for updating that acceptance criteria if any changes 
+were made by the Product Owner such as when the stakeholders decided they wanted the travel packages to be for 
+wellness and detox vacations only. Finally, I would like to acknowledge my own role as the Scrum Master who 
+was responsible for keeping the team following Scrum methodology. I organized most of the meetings and was 
+also responsible for keeping those meetings, such as the Daily Stand-Up, on track.
+
+A Scrum-agile approach helped each of the user stories come to completion because the user stories are able
+to break a project down into reasonable chunks that can be completed in a Sprint cycle. Since agile embraces 
+transparency, the use of user stories allows project progress to be easily visible either through the use of 
+a whiteboard and sticky notes or a more elegant Information Radiator program. The user story also helps the 
+team to understand what “done” looks like. For example, the user story to be able to limit search results 
+based on price makes it clear that the product is expected to be able to run a search with the optional 
+option of limiting that search based on a user-specified price.
+
+The Scrum-agile approach also makes it easy for a project to change direction mid-development. The team for 
+SNHU Travel experienced this when the client got wind that the next hottest thing was going to be wellness 
+and detox vacations. In order for them to stay competitive and ahead of the game, they had to change the 
+course of their project right away to meet consumer demand. Thankfully the scrum process made this relatively 
+easy. The team came together for a meeting to discuss the new changes, and the Development team was able to 
+keep the same coding framework they’d been using and just update the types of vacation packages that were 
+being returned. Since the use of Sprints keeps the whole team focused on bite-sized amounts of the project 
+rather than expecting to plan the whole thing from start to finish, very little time was lost in needing to 
+re-plan how the project was going to go.
+
+Our team was able to communicate effectively with one another both with face-to-face communication and through 
+email. Our team had decided early on that we were going to have our meetings face-to-face unless unforeseen 
+circumstanced prevented it. While we did not require our Product Owner to be at every meeting, we did require 
+her to be available when needed for clarification. This was especially important when she was announcing to 
+our team that SNHU Travel wished to focus solely on wellness and detox vacation packages. We made sure to have
+this as an in-person meeting so that she could immediately answer questions from our team. Additionally, 
+Christy as the Product Owner did a great job keeping in communication with stakeholders about what they wanted 
+from the booking system. This helped our Development team create a great product.
+
+Some tools that helped make our team successful were the Daily Stand-up meetings, the use of an information 
+radiator, and the use of code examples from the client. The Daily Stand-Ups allowed for consistent, daily 
+communication that is integral to the Scrum process. It helped keep our team on track because we were able to 
+share the things we had accomplished from the previous day, what we were planning to accomplish that day, 
+and what road blocks were standing in our way. The last part especially helped to have in-person because other
+team members were able to speak up and provide assistance to areas where others were struggling. The 
+information radiator Jira was easier for our team to use and the traditional white board with sticky notes 
+because the platform could be accessed anywhere and allowed the whole team to stay up-to-date. This was 
+particularly important to our Product Owner since she was not required to be at every meeting and therefore 
+would not have seen the progress made if a traditional approach had been taken. Finally, our team reached out 
+to the Product Owner for clarification on how they wanted the user platform to look. We were presented with 
+a .zip file containing a sample already coded of what the client was envisioning. This really helped our team
+because it couldn’t have been made any clearer what our client was wanting. This might not have happened in 
+a waterfall method because there isn’t usually communication between the development team and the client once 
+the product has moved from planning to actual development.
+
+The Scrum-agile approach does involve pros and cons that should be carefully considered. Some of the pros are 
+that the client is more involved, more emphasis is placed on communication, there is flexibility in being able 
+to adjust the project as it moves forward, and failure is considered a learning opportunity and a necessary 
+part of the project. However, some cons are that the team had to be re-trained in this method which is costly 
+for the company, it is harder to get a sense of how long and how expensive the project will be right at the 
+outset of the project, and it can be hard to convince people to consistently meet face-to-face especially if 
+they are used to online communication. In sum, though, I feel that SNHU Travel benefited from switching to 
+the Scrum-agile method. This is mostly because of the switch to focusing on wellness and detox vacation 
+packages. In a waterfall method, the client probably wouldn’t have been able to request this change of focus 
+mid-project. However, since the agile method is based around flexibility and the need of the client, our team 
+was able to accommodate the changes. Since SNHU Travel’s goal is to be cutting edge in the market, the ability 
+to make this change to the vacation booking system helped ensure their continued success as a company.
